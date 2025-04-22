@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Giovanni Zambotti @gzambotti
-- 👀 I’m interested in projects related with GIS/Geospatial Information/Mapping. 
-- 🌱 I’m currently working with the ESRI stack (ArcGIS Enterprise)
+- 👀 My focus is on projects that explore GIS, geospatial data analysis, and mapping technologies.. 
+- 🌱 My current work involves the ESRI stack, with a focus on ArcGIS Enterprise and its associated tools.
 - 📫 How to reach me ...
 
 <!---
